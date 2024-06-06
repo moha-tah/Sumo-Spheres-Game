@@ -1,4 +1,4 @@
-# 7-Wonders
+# Sumo Spheres
 
 ## Presentation
 I present you my video-game, named Sumo Spheres, developed with Unity and C++.
