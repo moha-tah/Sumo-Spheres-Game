@@ -1,5 +1,7 @@
 # Sumo Spheres
 
+![online-game](https://github.com/user-attachments/assets/fb9ba5fc-2fe2-483f-8050-6c8f1dd1a65c)
+
 ## Presentation
 I present you my video-game, named Sumo Spheres, developed with Unity and C++.
 
