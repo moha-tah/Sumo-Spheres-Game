@@ -9,9 +9,12 @@ You play as a ball on a platform and other balls want to knock you off this plat
 
 There is two game modes: a round-based solo mode against AIs and an online multiplayer mode to play with your friends.
 
-NB: My personal record is 21 in the solo mode. It becomes difficult because the AIs get stronger and faster after each round.
+Note: My personal record is 21 in the solo mode. It becomes difficult because the AIs get stronger and faster after each round.
 
 ## How to play ?
-The game is downloadable for MacOS and Windows in the "Releases" section of this repository, on the right of the GitHub interface.
+The game is downloadable for MacOS and Windows in the "Releases" section of this repository, on the right of the GitHub interface. Have fun!
 
-## GLHF !
+## Code
+I've put the scripts used to make this game work in the [/Scripts](/Scripts/) folder of the repository. You can find both Multiplayer and Solo mode code.
+
+Note: Some scripts and code that link the different objects together aren't available in this repository.
