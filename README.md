@@ -12,6 +12,6 @@ There is two game modes: a round-based solo mode against AIs and an online multi
 NB: My personal record is 21 in the solo mode. It becomes difficult because the AIs get stronger and faster after each round.
 
 ## How to play ?
-The game is downloadable for MacOS and Windows in the "Executables" folder of this repository.
+The game is downloadable for MacOS and Windows in the "Releases" section of this repository, on the right of the GitHub interface.
 
 ## GLHF !
